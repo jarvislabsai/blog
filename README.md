@@ -1,2 +1,2 @@
-# blogs
-Blogs on https://jarvislabs.ai/blogs
+# blog
+Blog on https://jarvislabs.ai/blog
